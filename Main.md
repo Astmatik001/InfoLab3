@@ -1,4 +1,5 @@
 Пинг до гугла прошел успешно.
+![Screenshot from 2024-12-11 03-48-09](https://github.com/user-attachments/assets/ca42d070-9725-4955-a0c2-5083654e1588)
 
 
 Адрес второй машины = ... .5
